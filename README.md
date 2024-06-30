@@ -20,4 +20,3 @@
 ## Minhas Contribuições 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TenorioSaulo&theme=gotham&repo=dio-lab-open-source)](https://github.com/TenorioSaulo/github-readme-stats)
 
-![Snake animation](https://github.com/TenorioSaulo/TenorioSaulo/blob/output/github-contribution-grid-snake.svg)
